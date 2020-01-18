@@ -26,4 +26,4 @@ run
 ![Image alt](https://github.com/Edo1993/otus_16/raw/master/1.png)
 
 Проверить состояние ```status```
-![Image alt](https://github.com/Edo1993/otus_16/raw/master/1.png)
+![Image alt](https://github.com/Edo1993/otus_16/raw/master/2.png)
