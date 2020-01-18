@@ -35,3 +35,7 @@ run
 - Выполнить команду ```list jobs```
 
 [list jobs](https://github.com/Edo1993/otus_16/blob/master/log/list%20jobs)
+
+- Выполнить команду ```list files jobid=<номер>```
+
+[list files jobid=2](https://github.com/Edo1993/otus_16/blob/master/log/list%20files%20jobid%3D)
